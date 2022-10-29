@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 玩机器
+#EXTINF:-1,玩机器
 https://epg.112114.xyz/douyu/6979222
-#EXTINF:-1 刘坤
+#EXTINF:-1,刘坤
 https://epg.112114.xyz/douyu/52319
-#EXTINF:-1 刘頔
+#EXTINF:-1,刘頔
 https://epg.112114.xyz/douyu/231059
-#EXTINF:-1 馒头
+#EXTINF:-1,馒头
 https://epg.112114.xyz/douyu/6959154
-#EXTINF:-1 冬瓜强
+#EXTINF:-1,冬瓜强
 https://epg.112114.xyz/douyu/63136
-#EXTINF:-1 CSBOY
+#EXTINF:-1,CSBOY
 https://epg.112114.xyz/huya/123321
-#EXTINF:-1 弹道王
+#EXTINF:-1,弹道王
 https://epg.112114.xyz/douyu/424678
+#EXTINF:-1,蛋挞酱
+https://pull-flv-l11.douyincdn.com/stage/stream-688333849528893585_or4.flv?expire=1667646186&sign=02a9f5aa3c3ba1c6239b7ce6b370509f&abr_pts=-1800
