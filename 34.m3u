@@ -13,10 +13,6 @@ https://epg.112114.xyz/douyu/63136
 https://epg.112114.xyz/huya/123321
 #EXTINF:-1,弹道王
 https://epg.112114.xyz/douyu/424678
-#EXTINF:-1,蛋挞酱
-https://pull-flv-l11.douyincdn.com/stage/stream-688333849528893585_or4.flv
-#EXTINF:-1,小羔lazy  
-https://pull-flv-l13.douyincdn.com/stage/stream-688334167699095992_or4.flv?expire=1667649445&sign=b5ea7b0dcc3977a01f3b0312a5e8420f&abr_pts=-1800
 #EXTINF:-1,18ym
 https://epg.112114.xyz/douyu/5190741
 #EXTINF:-1,陈子敬
@@ -27,3 +23,7 @@ https://epg.112114.xyz/huya/610732
 https://epg.112114.xyz/douyu/219688
 #EXTINF:-1,intoo9
 https://epg.112114.xyz/douyu/9694020
+#EXTINF:-1,世界杯
+http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+#EXTINF:-1,世界杯2
+http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
